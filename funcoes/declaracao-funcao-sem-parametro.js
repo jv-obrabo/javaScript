@@ -1,6 +1,6 @@
-function nomeDaFuncao(){
+function nomeDaFuncao() {
   // corpo da funçao 
   return resultado ; // opcional
 }
-chamada da funçao 
+ //chamada da funçao 
 nomeDaFuncao();
